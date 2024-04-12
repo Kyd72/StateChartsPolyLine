@@ -34,6 +34,12 @@ Vous pouvez vous inspirer du code dans le répertoire `pages/xstaterubber` pour 
 
 Le code utilise la bibliothèque [Konva](https://konvajs.org/docs/index.html) pour le dessin des points et des lignes.
 
+## Travail fait
+* Modification du JS
+* Ajout des 'unPoint' et 'plusieursPoints' à l'objet polylineMachine pour gérer le tracé des lignes
+* Définition de la couleur bleue et epaisseur 3pt
+
+
 
 
 
